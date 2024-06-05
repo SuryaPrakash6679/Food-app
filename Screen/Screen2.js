@@ -91,7 +91,7 @@ const Screen2 = ({navigation}) => {
         <TouchableOpacity style={styles.sub_class1}
         //  onPress={() => navigation.navigate('page4')}
          >
-          <Text style={styles.offer_text}>OFFER ZONE</Text>
+          <Text style={styles.offer_text}>OFFER ZONE for suryabhai</Text>
           <Text style={styles.offertext_2}>Up to 60% off and more</Text>
         </TouchableOpacity>
 
